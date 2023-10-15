@@ -1,5 +1,8 @@
 # Python TTS (Text-to-Speech)
 
+![GitHub top language](https://img.shields.io/github/languages/top/A-nshuman/Python_tts)
+![GitHub repo size](https://img.shields.io/github/repo-size/A-nshuman/Python_tts?color=yellow)
+
 A Python script for converting text into speech using the pyttsx3 library.
 
 ## Table of Contents
